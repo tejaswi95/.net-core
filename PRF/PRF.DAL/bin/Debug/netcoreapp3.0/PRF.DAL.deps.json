@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PRF.DAL/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.0-preview3.19553.2"
+        },
+        "runtime": {
+          "PRF.DAL.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration/3.1.0-preview3.19553.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.0-preview3.19553.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.100.19.55302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.0-preview3.19553.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.0-preview3.19553.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.100.19.55302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.0-preview3.19553.2": {
+        "dependencies": {
+          "System.Memory": "4.5.2",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.0-preview3.19551.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.100.19.55302"
+          }
+        }
+      },
+      "System.Memory/4.5.2": {},
+      "System.Runtime.CompilerServices.Unsafe/4.7.0-preview3.19551.4": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.6.0",
+            "fileVersion": "4.700.19.55104"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRF.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration/3.1.0-preview3.19553.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KSBmVdJvN+94ZoAHanyQVpw0uFCZzEbpXNvFBd2ILxabzPZWueIIebeEr8ejM//VhWpT2DwVMHlwWUCmiq7Kmg==",
+      "path": "microsoft.extensions.configuration/3.1.0-preview3.19553.2",
+      "hashPath": "microsoft.extensions.configuration.3.1.0-preview3.19553.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.0-preview3.19553.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nKnqMNT2u+PV/6KPPY8jphIPZ/JGB8MiDASMizT8HKRvKc8KUGkcBMHx3YGL28Mk04u6feXl7iBffavTLSjbDw==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.0-preview3.19553.2",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.0-preview3.19553.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.0-preview3.19553.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z+pPgFR+itvNxX/wYpC5Ffzyhz2KkGKpBGi7YltQ3GUAO5gz47jxnrg8no6i6mnLPb17n8t0t1nyUfccYCwXtA==",
+      "path": "microsoft.extensions.primitives/3.1.0-preview3.19553.2",
+      "hashPath": "microsoft.extensions.primitives.3.1.0-preview3.19553.2.nupkg.sha512"
+    },
+    "System.Memory/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fvq1GNmUFwbKv+aLVYYdgu/+gc8Nu9oFujOxIjPrsf+meis9JBzTPDL6aP/eeGOz9yPj6rRLUbOjKMpsMEWpNg==",
+      "path": "system.memory/4.5.2",
+      "hashPath": "system.memory.4.5.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.0-preview3.19551.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BU7m1FwolaGTh/+UP0SueOqXBNpcwROK7633HRNoZ9A2kBhdoi7nsKyjHLfae3GIxchV9Cxt9nDaeU2EdhPzxQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.7.0-preview3.19551.4",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.7.0-preview3.19551.4.nupkg.sha512"
+    }
+  }
+}

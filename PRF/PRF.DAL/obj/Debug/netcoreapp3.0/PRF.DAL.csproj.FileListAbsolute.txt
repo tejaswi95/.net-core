@@ -1,0 +1,8 @@
+E:\Personal\Learning\Rohan\PRF\PRF.DAL\bin\Debug\netcoreapp3.0\PRF.DAL.deps.json
+E:\Personal\Learning\Rohan\PRF\PRF.DAL\bin\Debug\netcoreapp3.0\PRF.DAL.dll
+E:\Personal\Learning\Rohan\PRF\PRF.DAL\obj\Debug\netcoreapp3.0\PRF.DAL.csprojAssemblyReference.cache
+E:\Personal\Learning\Rohan\PRF\PRF.DAL\obj\Debug\netcoreapp3.0\PRF.DAL.AssemblyInfoInputs.cache
+E:\Personal\Learning\Rohan\PRF\PRF.DAL\obj\Debug\netcoreapp3.0\PRF.DAL.AssemblyInfo.cs
+E:\Personal\Learning\Rohan\PRF\PRF.DAL\bin\Debug\netcoreapp3.0\PRF.DAL.pdb
+E:\Personal\Learning\Rohan\PRF\PRF.DAL\obj\Debug\netcoreapp3.0\PRF.DAL.dll
+E:\Personal\Learning\Rohan\PRF\PRF.DAL\obj\Debug\netcoreapp3.0\PRF.DAL.pdb
